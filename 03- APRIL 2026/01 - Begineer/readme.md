@@ -3,6 +3,7 @@
 
 **Track:** Cloud Security / DevOps Foundation
 **Level:** Beginner — zero to one year, no prior cloud experience needed
+
 **Duration:** 4 weeks
 **Format:** Console first → CLI second. Every concept is tested before moving on.
 
